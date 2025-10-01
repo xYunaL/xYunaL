@@ -3,7 +3,7 @@
 </div>
 <br><br>
 <div align= "center">
-    <p>🐈‍⬛Contact🐈‍⬛ | 
+    <p style="font-weight:900;">🐈‍⬛Contact🐈‍⬛ | 
     <a href=https://velog.io/@liy_se00/> 
         <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@liy_se00/"> 
     </a>
