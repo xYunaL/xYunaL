@@ -1,9 +1,7 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ded6f2,100:a5ebfe&height=120&text=&animation=&fontColor=000000&fontSize=40" />
 </div>
-
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ლ(=ↀωↀ=)ლ  </h2>  
-<div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
+<div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ✧✧✧ ლ(=ↀωↀ=)ლ  ✧✧✧ </div> 
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> 
 <br> 
