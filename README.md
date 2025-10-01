@@ -1,6 +1,6 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:ffe5e5,100:5cb8ff&height=120&text=✧✧✧%20ლ(=ↀωↀ=)ლ%20%20✧✧✧&animation=&fontColor=ffffff&fontSize=40" />
-</div>
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:c6b6a7,100:802523&height=120&text=✧✧✧%20ლ(=ↀωↀ=)ლ%20✧✧✧&animation=&fontColor=e4ded2&fontSize=70" />
+    </div>
 <br><br>
 <div align= "center">
     <p><strong>🐈‍⬛Contact🐈‍⬛ |  </strong>
