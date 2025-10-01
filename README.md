@@ -1,17 +1,8 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ded6f2,100:a5ebfe&height=120&text=&animation=&fontColor=000000&fontSize=40" />
-</div>
-<div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ✧✧✧ ლ(=ↀωↀ=)ლ  ✧✧✧ </div> 
-
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> 
-<br> 
-<div style="margin: 0 auto; text-align: center;" align= "center"> 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
-</div>
-</div>
-
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:ffe5e5,100:5cb8ff&height=120&text=✧✧✧%20ლ(=ↀωↀ=)ლ%20%20✧✧✧&animation=&fontColor=ffffff&fontSize=40" />
+    </div>
+    <div align= "center">
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> </div>
 <div align= "center">
   <a href=https://velog.io/@liy_se00/> 
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@liy_se00/"> 
