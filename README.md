@@ -1,5 +1,5 @@
 ## I'm Yoonseo.
-### 💻 About Me
+### 🤗 About Me
 - 🌱 I’m a Backend Developer majoring in Computer Science</br>
 - 📚 Currently focusing on Research Participant
 
@@ -21,6 +21,15 @@
   ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=000000)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+
+### 💻 My Projects
+|진행일|프로젝트명|소개|깃허브|
+|:-:|:-|:-|:-:|
+|<sub>2024.10-2024.12</sub> | 🥗 HealEat | <sub>건강 기반 식당 추천</sub> | [🐈](https://github.com/HealEat/Backend) |
+|<sub>2025.05</sub> | 🌿 Ecopedia | <sub>다양한 생물들을 기록하는 나만의 도감 서비스</sub> | [🐈](https://github.com/Ecopedia/Ecopedia_Spring)|
+|<sub>2025.06-2025.8</sub> | 📰 News Intelligent | <sub>중복된 주제의 뉴스들을 하나의 토픽으로, 신뢰할 수 있는 AI 요약</sub> | [🐈](https://github.com/newsIntelligent) |
+|<sub>2025.11</sub> | 🔍 ZERONA | <sub>가공 식품 속 대체감미료를 찾아내어 사용자 맞춤 AI 분석</sub> | [🐈](https://github.com/Fork-4-U) 
+|<sub>2025.12-2026.02</sub> | 🎵 Muses | <sub>오프라인 공연·전시·이벤트를 위한 크라우드 펀딩 플랫폼</sub> | [🐈](https://github.com/umcMuses/Backend) |
 
 
 ### 📊 My Stats
