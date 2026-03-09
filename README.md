@@ -1,7 +1,7 @@
 ## I'm Yoonseo.
 ### 🤗 About Me
 - 🌱 I’m a Backend Developer majoring in Computer Science</br>
-- 📚 Currently focusing on Research Participant
+- 📚 Currently focusing on Backend development
 
 ### 🛠️ Tech Stack
 - 🌐 &nbsp;
