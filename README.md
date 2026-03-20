@@ -48,13 +48,13 @@
 
 | 기간 | 활동 | 역할 |
 |------|------|------|
-| <sub>2024.09 ~ 2025.02</sub> | <sub>연합 개발 동아리 UMC 7th</sub> | <sub>SpringBoot 챌린저</sub> |
-| <sub>2025.03 ~ 2025.08</sub> | <sub>연합 개발 동아리 UMC 8th</sub> | <sub>SpringBoot 챌린저</sub> |
-| <sub>2025.03 ~ 2025.08</sub> | <sub>연합 개발 동아리 UMC 8th</sub> | <sub>숙명여대 회장</sub> |
+| <sub>2024.09 ~ 2025.02</sub> | <sub>대학생 연합 개발 동아리 UMC 7th</sub> | <sub>SpringBoot 챌린저</sub> |
+| <sub>2025.03 ~ 2025.08</sub> | <sub>대학생 연합 개발 동아리 UMC 8th</sub> | <sub>SpringBoot 챌린저</sub> |
+| <sub>2025.03 ~ 2025.08</sub> | <sub>대학생 연합 개발 동아리 UMC 8th</sub> | <sub>숙명여대 회장</sub> |
 | <sub>2025.06 ~ 2025.06</sub> | <sub>Microsoft와 함께하는 2025 정보보안 인재 양성 과정</sub> | <sub>수료 (31H)</sub> |
 | <sub>2025.08 ~ 2025.11</sub> | <sub>성남시&와디즈 THE 와플 4기</sub> | <sub>창업팀 '리스피릿' 팀원</sub> |
-| <sub>2025.09 ~ 2026.02</sub> | <sub>연합 개발 동아리 UMC 9th</sub> | <sub>Android 챌린저</sub> |
-| <sub>2025.09 ~ 2026.02</sub> | <sub>연합 개발 동아리 UMC 9th</sub> | <sub>숙명여대 부회장</sub> |
+| <sub>2025.09 ~ 2026.02</sub> | <sub>대학생 연합 개발 동아리 UMC 9th</sub> | <sub>Android 챌린저</sub> |
+| <sub>2025.09 ~ 2026.02</sub> | <sub>대학생 연합 개발 동아리 UMC 9th</sub> | <sub>숙명여대 부회장</sub> |
 | <sub>2026.03 ~ 2026.08</sub> | <sub>헬스케어 IT 창업동아리 Medilux 25기</sub> | <sub>개발 파트</sub> |
 
 </details>
