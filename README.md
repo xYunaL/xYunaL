@@ -14,6 +14,8 @@
   ![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio&logoColor=3DDC84)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)
+  ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=4169E1)
 - ☁️ &nbsp;
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=white)
   ![AWS](https://custom-icon-badges.demolab.com/badge/-AWS-333333?style=flat&logo=aws&logoColor=FF9900)
