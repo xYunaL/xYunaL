@@ -61,11 +61,6 @@
 
 </details>
 
-### 📊 My Stats
-<!--![Yoonseo's github stats](https://github-readme-stats.vercel.app/api?username=xYunaL&show_icons=true&hide_border=true)&nbsp;&nbsp;-->
-![Yoonseo's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xYunaL&layout=compact&langs_count=8&hide_border=true)
-<br/>
-
 📝 **My Blog:** 
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@liy_se00/posts)
 [![Tistory](https://img.shields.io/badge/Tistory-FF5722?style=for-the-badge&logo=tistory&logoColor=white)](https://imsleepdev.tistory.com/)
