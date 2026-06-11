@@ -8,7 +8,6 @@
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=ED8B00)
   ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin&logoColor=7F52FF)
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=A8B9CC)
 - 🚀 &nbsp;
   ![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=springboot&logoColor=6DB33F)
   ![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio&logoColor=3DDC84)
@@ -17,8 +16,8 @@
   ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=4169E1)
 - ☁️ &nbsp;
-  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=white)
   ![AWS](https://custom-icon-badges.demolab.com/badge/-AWS-333333?style=flat&logo=aws&logoColor=FF9900)
+  ![Azure](https://custom-icon-badges.demolab.com/badge/-Azure-333333?style=flat&logo=azure&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=githubactions&logoColor=2088FF)
 - 🤝 &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
@@ -34,13 +33,14 @@
 <details>
 <summary><b> 상세보기</b></summary>
   
-|진행일|프로젝트명|소개|깃허브|
-|:-:|:-|:-|:-:|
-|<sub>2024.10-2024.12</sub> | 🥗 HealEat | <sub>회원 건강 기반 맞춤 식당 추천 서비스</sub> | [🐈](https://github.com/HealEat/Backend) |
-|<sub>2025.05</sub> | 🌿 Ecopedia | <sub>다양한 생물들을 기록하는 나만의 도감 서비스</sub> | [🐈](https://github.com/Ecopedia/Ecopedia_Spring)|
-|<sub>2025.06-2025.8</sub> | 📰 News Intelligent | <sub>중복된 주제의 뉴스들을 하나의 토픽으로, 신뢰할 수 있는 AI 요약</sub> | [🐈](https://github.com/newsIntelligent/Backend) |
-|<sub>2025.11</sub> | 🔍 ZERONA | <sub>가공 식품 속 대체감미료를 찾아내어 사용자 맞춤 AI 분석</sub> | [🐈](https://github.com/Fork-4-U) 
-|<sub>2025.12-2026.02</sub> | 🎵 Muses | <sub>오프라인 공연·전시·이벤트를 위한 크라우드 펀딩 플랫폼</sub> | [🐈](https://github.com/umcMuses/Backend) |
+| 프로젝트 | 소개 | 역할 | GitHub |
+|:-|:-|:-|:-:|
+| **Han-Spoon** | Azure 클라우드 환경에서의 외국인을 위한 식단 기반 맞춤형 메뉴판 OCR 스캔·AI 분석 번역 제공 서비스 | <sub>백엔드(Spring, Java)<br>인프라(Azure)<br>프론트(React)</sub> | [🐈](https://github.com/Han-Spoon) |
+| **Muses** | 오프라인 공연·전시·이벤트를 위한 크라우드 펀딩 플랫폼 | <sub>백엔드(Spring, Java)<br>인프라(AWS)</sub> | [🐈](https://github.com/umcMuses/Backend) |
+| **ZERONA** | 가공 식품 속 대체감미료를 찾아내어 사용자 맞춤 AI 분석 | <sub>백엔드(Spring, Java)</sub> | [🐈](https://github.com/Fork-4-U) |
+| **News Intelligent** | 중복된 주제의 뉴스들을 하나의 토픽으로, 신뢰할 수 있는 AI 요약 | <sub>백엔드(Spring, Java)</sub> | [🐈](https://github.com/newsIntelligent/Backend) |
+| **Ecopedia** | 다양한 생물들을 기록하는 나만의 도감 서비스 | <sub>백엔드(Spring, Java)</sub> | [🐈](https://github.com/Ecopedia/Ecopedia_Spring) |
+| **HealEat** | 회원 건강 기반 맞춤 식당 추천 서비스 | <sub>백엔드(Spring, Java)</sub> | [🐈](https://github.com/HealEat/Backend) |
 
 </details>
 
