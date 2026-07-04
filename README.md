@@ -35,7 +35,7 @@
   
 | 프로젝트 | 소개 | 팀 내 역할 | GitHub |
 |:-|:-|:-|:-:|
-| **BLT** | 수면 데이터·PVT 테스트 기반 뇌 컨디션(Brain ROI) 수치화 및 업무 추천 헬스케어 서비스 | <sub>백엔드(Spring, Kotlin) 단독<br>인프라(AWS)</sub> | [🐈](https://github.com/BLT-Bio-Latency-Tracker/backend) |
+| **BLT** | 수면 데이터·PVT 테스트 기반 뇌 컨디션(Brain ROI) 수치화 및 업무 추천 헬스케어 서비스 | <sub>백엔드(Spring, Kotlin)<br>인프라(AWS)</sub> | [🐈](https://github.com/BLT-Bio-Latency-Tracker/backend) |
 | **Han-Spoon** | Azure 클라우드 환경에서의 외국인을 위한 식단 기반 맞춤형 메뉴판 OCR 스캔·AI 분석 번역 제공 서비스 | <sub>백엔드(Spring, Java)<br>인프라(Azure ACA)<br>프론트(React)</sub> | [🐈](https://github.com/Han-Spoon) |
 | **S.O.S** | AI 생성 분기형 시나리오 기반 피싱·스캠 예방 시뮬레이터 | <sub>백엔드(Spring, Java)<br>프론트(React, TS)</sub> | [🐈](https://github.com/SOS-team8/safe-or-scam) |
 | **Course Registration** | Oracle PL/SQL 활용한 JSP 기반 수강신청 시스템 | <sub>백엔드(Servlet/JSP, Java)</sub> | [🐈](https://github.com/xYunaL/Course-Registration-Site) |
